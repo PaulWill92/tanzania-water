@@ -1,2 +1,3 @@
-# tanzania-water
-Using a Classifier to predict whether a water well will work in tanzania
+# Tanzania Water Well Classification Project
+
+![Tanzania](./Images/tanzania-water-well.jpg)
