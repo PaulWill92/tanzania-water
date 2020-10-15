@@ -1,4 +1,4 @@
-# Tanzania Water Well Classification Project
+k# Tanzania Water Well Classification Project
 
 ![Tanzania](./Images/tanzania-water-well.jpg)
 
@@ -20,4 +20,11 @@ My Socials:
 
 ### Executive Summary 
 
+
+### Model Results
+
+
+### Methodology
+
+### Sources:
 
