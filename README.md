@@ -10,7 +10,7 @@ predict working water wells in tanzania.
 
 1. [Data Transformation & Cleaning](https://github.com/PaulWill92/tanzania-water/blob/main/Notebooks/1-Data_Cleaning.ipynb)
 2. [Exploratory Data Analysis](https://github.com/PaulWill92/tanzania-water/blob/main/Notebooks/2-Exploratory_Data_Analysis.ipynb)
-3. [Data Modeling]()
+3. [Data Modeling](https://github.com/PaulWill92/tanzania-water/blob/main/Notebooks/3-Data_Modeling.ipynb)
 
 My Socials:
 
