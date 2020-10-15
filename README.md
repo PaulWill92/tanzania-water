@@ -1,4 +1,4 @@
-k# Tanzania Water Well Classification Project
+# Tanzania Water Well Classification Project
 
 ![Tanzania](./Images/tanzania-water-well.jpg)
 
@@ -9,7 +9,7 @@ predict working water wells in tanzania.
 ## Contents
 
 1. [Data Transformation & Cleaning](https://github.com/PaulWill92/tanzania-water/blob/main/Notebooks/1-Data_Cleaning.ipynb)
-2. [Exploratory Data Analysis]()
+2. [Exploratory Data Analysis](https://github.com/PaulWill92/tanzania-water/blob/main/Notebooks/2-Exploratory_Data_Analysis.ipynb)
 3. [Data Modeling]()
 
 My Socials:
